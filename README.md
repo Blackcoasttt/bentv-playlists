@@ -10,6 +10,15 @@ Depois de ativar GitHub Pages:
 https://Blackcoasttt.github.io/bentv-playlists/minha-lista.m3u8
 ```
 
+## Fontes configuradas
+
+```text
+https://Blackcoasttt.github.io/bentv-playlists/minha-lista.m3u8
+https://tv.meuted.io/iptvlegal.m3u
+```
+
+O arquivo `playlists.json` tambem lista essas fontes para uso pelo painel/app.
+
 ## Como adicionar listas
 
 Voce pode adicionar mais arquivos:

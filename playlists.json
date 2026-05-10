@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Minha lista BENTV",
+    "type": "m3u_url",
+    "url": "https://Blackcoasttt.github.io/bentv-playlists/minha-lista.m3u8",
+    "enabled": true
+  },
+  {
+    "name": "IPTV legal publica",
+    "type": "m3u_url",
+    "url": "https://tv.meuted.io/iptvlegal.m3u",
+    "enabled": true
+  }
+]
